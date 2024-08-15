@@ -18,6 +18,6 @@ Currently, I’m diving deeper into **Laravel** to explore its latest features a
 Feel free to check out my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about web development!
 
 - [GitHub](https://github.com/Dhaval-Jethva)
-- [LinkedIn](https://www.linkedin.com/in/prajapati-dhaval-jethva/)
+- [LinkedIn](https://www.linkedin.com/in/dhaval-jethva/)
 
 Looking forward to connecting and collaborating!
